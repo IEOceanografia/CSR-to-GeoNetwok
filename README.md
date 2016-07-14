@@ -1,2 +1,2 @@
 # CSR-to-GeoNetwok
-XSLT to transform Cruise Summary Report (CSR) XML metadata file to a new one to import in GeoNetwork
+XSL to transform Cruise Summary Report (CSR) XML metadata file into a new one to be imported in GeoNetwork
